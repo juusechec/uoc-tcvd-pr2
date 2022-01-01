@@ -1,6 +1,9 @@
 # uoc-tcvd-pr2
 Práctica 2 de la asignatura Tipología y Ciclo de Vida de los Datos de la UOC
 
+# Repositorio
+- https://github.com/juusechec/uoc-tcvd-pr2
+
 # Objetivo
 - Aprender a aplicar los conocimientos adquiridos y su capacidad de resolución de
 problemas en entornos nuevos o poco conocidos dentro de contextos más amplios o
@@ -54,7 +57,7 @@ pip freeze > requirements.txt
 - Cristian Alejandro Zamora Flores ([@chrisitan](https://github.com/chrisitan))
 
 # Descripción de los ficheros
-- M2.851_20211_Practica2.ipynb: Notebook de la práctica.
+- [M2.851_20211_Practica2.ipynb](./M2.851_20211_Practica2.ipynb): Notebook de la práctica.
 - winequality.csv: Archivo de origen de los datos.
 - .gitignore: Archivo que nos ayuda a decirle al sistema git qué queremos trackear en la gestión del versionamiento del código.
 - LICENSE: Licencia del código generado, no de la información resultante o de las herramientas usadas.
