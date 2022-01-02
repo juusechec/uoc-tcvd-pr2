@@ -65,6 +65,4 @@ pip freeze > requirements.txt
 - requirements.txt: Lista de las dependencias del proyecto python.
 
 # Vídeo con la explicación
-[![playvideo](https://user-images.githubusercontent.com/4140058/138766156-f5068597-1423-485e-a600-c2c22b311be3.png)](https://drive.google.com/file/d/1HOfT8t2qD4HYXyg6MBHXMWwV-0-kPX83/view)
-
-
+[![playvideo](https://user-images.githubusercontent.com/42657278/147869839-3896d204-8724-473d-b80c-26b41e0429fc.png)](https://drive.google.com/file/d/1bMuUvG7gFw1s-fqEA438U4YMWdsK6Lc0/view?usp=sharing)
