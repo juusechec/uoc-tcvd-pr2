@@ -54,7 +54,7 @@ pip freeze > requirements.txt
 
 # Integrantes
 - Jorge Ulises Useche Cuellar ([@juusechec](https://github.com/juusechec))
-- Cristian Alejandro Zamora Flores ([@chrisitan](https://github.com/chrisitan))
+- Cristian Alejandro Zamora Flores ([@christianAllCore](https://github.com/christianAllCore))
 
 # Descripción de los ficheros
 - [M2.851_20211_Practica2.ipynb](./M2.851_20211_Practica2.ipynb): Notebook de la práctica.
