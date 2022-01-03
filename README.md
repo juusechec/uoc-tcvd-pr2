@@ -58,6 +58,7 @@ pip freeze > requirements.txt
 
 # Descripción de los ficheros
 - [M2.851_20211_Practica2.ipynb](./M2.851_20211_Practica2.ipynb): Notebook de la práctica.
+- [M2.851_20211_Practica2.pdf](./M2.851_20211_Practica2.pdf): Documento de la práctica en formato PDF.
 - winequality-red.csv: Archivo de origen de los datos.
 - winequality-red-sel.csv: Archivo resultante de la limpieza de los datos.
 - .gitignore: Archivo que nos ayuda a decirle al sistema git qué queremos trackear en la gestión del versionamiento del código.
